@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Georgi — based in Didcot, UK. Cloud engineer at [Storm Reply UK](https://www.reply.com/storm-reply/en/) by day, occasional builder of small unnecessary things by night.
+I'm Georgi — based in Didcot, UK. Senior Cloud Engineer at [Storm Reply UK](https://www.reply.com/storm-reply/en/) by day, occasional builder of small unnecessary things by night.
 
 #### What I work with
 
